@@ -2,6 +2,8 @@
 ## Description
 This is a simple static beautiful restaurant food website Which I have made using HTML5 & CSS.
 
+<img src="Screenshot 2024-01-13 130927.png">
+
 ## How to use
 - To view this template simply run the "Index.html" file by double-clicking on it.
 - You can check how this site looks by checking the screenshots of the site before cloning the repo.
